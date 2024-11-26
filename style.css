@@ -3,4 +3,7 @@ body
 background-color: aquamarine;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 15px;
+color: white;
+font-weight: 400;
+margin: 10px;
 }
